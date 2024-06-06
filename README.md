@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Discord Clone UI ⚛️</h1>
+
+<p>
+    <img src="./images/image.png" alt="imagem do discord"/>
+</p>
 
 ## Available Scripts
 
